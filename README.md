@@ -1,1 +1,1 @@
-# TakePhoto
+# TakePhoto图片裁剪功能封装，工具文件拿过去直接使用
